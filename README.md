@@ -1,1 +1,1 @@
-# GTIN Kontrol Basamağı Hesaplama
+# GTIN-13 Kontrol Basamağı Hesaplama
