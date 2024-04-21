@@ -1,0 +1,1 @@
+# GTIN Kontrol Basamağı Hesaplama
